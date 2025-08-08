@@ -17,12 +17,12 @@
     </tr>
     <tr>
       <td>
-        <a href="https://bmb-tech-pair-site.onrender.com/wasiqr" target="_blank">
+        <a href="https://kindasessions.onrender.com/" target="_blank">
           <img src="https://img.shields.io/badge/PAIR_CODE-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a"/>
         </a>
       </td>
       <td>
-        <a href="https://bmb-tech-pair-site.onrender.com/QR" target="_blank">
+        <a href="https://kindasessions.onrender.com/qr" target="_blank">
            <img src="https://img.shields.io/badge/QR_CODE-E91E63?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a"/>
         </a>
       </td>
