@@ -1,7 +1,7 @@
 # XTECH-VERSION
 --- 
 
-<a><img src='https://files.catbox.moe/etqc8k.jpg'/></a>
+<a><img src='https://files.catbox.moe/mua6vc.jpg'/></a>
 
 ---
 
