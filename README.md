@@ -1,5 +1,10 @@
 # XTECH-VERSION
-😇❤️ᴛʜɪs ɪs ᴘᴏᴘᴋɪᴅ x ᴛᴇᴄʜ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘᴏᴘᴋɪᴅ 2025 ᴛʜᴇ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ😇
+--- 
+
+<a><img src='https://files.catbox.moe/etqc8k.jpg'/></a>
+
+---
+
 
 <div align="center">
   <table>
